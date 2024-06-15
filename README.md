@@ -28,25 +28,6 @@ Resultado:
 
 <img src="resultado.jpeg" alt="Grafo" width="350" height="50"/>
 
-```json
-{
-  "population_size": 100,
-  "mutation_rate": 0.01,
-  "num_generations": 200,
-  "crossover_method": "one-point",
-  "selection_method": "tournament",
-  "graph": {
-    "nodes": ["A", "B", "C", "D", "E"],
-    "edges": {
-      "A": {"B": 1, "C": 4},
-      "B": {"A": 1, "C": 2, "D": 5},
-      "C": {"A": 4, "B": 2, "D": 1},
-      "D": {"B": 5, "C": 1, "E": 3},
-      "E": {"D": 3}
-    }
-  }
-}
-```
 
 Observe a saída, que mostrará o caminho mais curto encontrado e sua distância.
 
