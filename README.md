@@ -3,12 +3,17 @@ Uso
 O script principal para executar o algoritmo genético é `main.py`.
 
 ### Configuração
-- `population_size`: Número de indivíduos na população
-- `mutation_rate`: Probabilidade de mutação em um indivíduo
-- `num_generations`: Número de gerações para evoluir
-- `crossover_method`: Método para realizar o cruzamento (por exemplo, um ponto, dois pontos)
-- `selection_method`: Método para seleção (por exemplo, torneio, roleta)
-- `graph`: Representação do grafo como matriz de adjacência ou lista
+```python
+start_vertex = 'A'
+end_vertex = 'B'
+NUM_VERTICES = 10  # Número de vértices desejado
+TAMANHO_DA_POPULACAO = 10 
+TAMANHO_TORNEIO = 3
+NUM_GERACOES = 10
+CHANCE_CRUZAMENTO = 0.5
+CHANCE_MUTACAO = 0.2
+```
+
   
 
 ### Exemplo
