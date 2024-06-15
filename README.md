@@ -34,11 +34,12 @@ Observe a saída, que mostrará o caminho mais curto encontrado e sua distância
 ### Contribuições
 Contribuições são bem-vindas! Por favor, siga estes passos:
 
-Fork o repositório
-Crie um novo branch (git checkout -b feature-branch)
-Faça commit das suas mudanças (git commit -am 'Adicionar nova feature')
-Faça push para o branch (git push origin feature-branch)
-Crie um novo Pull Request
+- Fork o repositório
+- Crie um novo branch (`git checkout -b feature-branch`)
+- Faça commit das suas mudanças (`git commit -am 'Adicionar nova feature'`)
+- Faça push para o branch (`git push origin feature-branch`)
+- Crie um novo `Pull Request`
+  
 ## Licença
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
 
