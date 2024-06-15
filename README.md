@@ -1,6 +1,6 @@
 ## Algoritmo Genético para o Caminho Mais Curto
 Uso
-O script principal para executar o algoritmo genético é main.py. Você pode configurar os parâmetros do algoritmo genético editando o arquivo config.json.
+O script principal para executar o algoritmo genético é `main.py`. Você pode configurar os parâmetros do algoritmo genético editando o arquivo `config.json`.
 
 ## Configuração
 - `population_size`: Número de indivíduos na população
