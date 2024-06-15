@@ -1,30 +1,23 @@
+## Algoritmo Genético para o Caminho Mais Curto
+Uso
+O script principal para executar o algoritmo genético é main.py. Você pode configurar os parâmetros do algoritmo genético editando o arquivo config.json.
 
-# Genetic Algorithm for Shortest Path
-
-## Usage
-
-The main script to run the genetic algorithm is `main.py`. You can configure the parameters of the genetic algorithm by editing the `config.json` file.
-
-### Configuration
-
-- `population_size`: Number of individuals in the population
-- `mutation_rate`: Probability of mutation in an individual
-- `num_generations`: Number of generations to evolve
-- `crossover_method`: Method to use for crossover (e.g., one-point, two-point)
-- `selection_method`: Method to use for selection (e.g., tournament, roulette-wheel)
-- `graph`: Representation of the graph as an adjacency matrix or list
-
-### Running the Algorithm
-
+## Configuração
+- `population_size`: Número de indivíduos na população
+- `mutation_rate`: Probabilidade de mutação em um indivíduo
+- `num_generations`: Número de gerações para evoluir
+- `crossover_method`: Método para realizar o cruzamento (por exemplo, um ponto, dois pontos)
+- `selection_method`: Método para seleção (por exemplo, torneio, roleta)
+- `graph`: Representação do grafo como matriz de adjacência ou lista
+  
+## Executando o Algoritmo
 ```bash
 python main.py
 ```
+## Exemplo
+Aqui está um exemplo de como usar o algoritmo genético para encontrar o caminho mais curto em um grafo de exemplo.
 
-### Example
-
-Here's an example of how to use the genetic algorithm to find the shortest path in a sample graph.
-
-Define your graph in `config.json`:
+Defina seu grafo em config.json:
 
 ```json
 {
@@ -46,33 +39,20 @@ Define your graph in `config.json`:
 }
 ```
 
-Run the genetic algorithm:
+Observe a saída, que mostrará o caminho mais curto encontrado e sua distância.
 
-```bash
-python main.py
-```
+### Contribuições
+Contribuições são bem-vindas! Por favor, siga estes passos:
 
-Observe the output, which will show the shortest path found and its distance.
+Fork o repositório
+Crie um novo branch (git checkout -b feature-branch)
+Faça commit das suas mudanças (git commit -am 'Adicionar nova feature')
+Faça push para o branch (git push origin feature-branch)
+Crie um novo Pull Request
+## Licença
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
 
-## Contributing
+## Contato
+Se você tiver alguma pergunta ou sugestão, sinta-se à vontade para entrar em contato comigo em seu-email@example.com.
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at `your-email@example.com`.
-
-Thank you for using the Genetic Algorithm for Shortest Path! Happy coding!
-```
-
-Now you can copy the above content and paste it directly into your GitHub README file.
+Obrigado por usar o Algoritmo Genético para o Caminho Mais Curto! Feliz codificação!
