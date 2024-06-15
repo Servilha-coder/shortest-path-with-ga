@@ -53,6 +53,9 @@ Crie um novo Pull Request
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
 
 ## Contato
-Se você tiver alguma pergunta ou sugestão, sinta-se à vontade para entrar em contato comigo em seu-email@example.com.
+Se você tiver alguma pergunta ou sugestão, nos contate:
+- andre23035@ilum.cnpem.br
+- carlos23036@ilum.cnpem.br
+- sergio23040@ilum.cnpem.br
 
-Obrigado por usar o Algoritmo Genético para o Caminho Mais Curto! Feliz codificação!
+Obrigado por estudar nosso Algoritmo Genético para o Caminho Mais Curto! Happy Coding!
