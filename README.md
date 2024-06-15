@@ -17,9 +17,16 @@ CHANCE_MUTACAO = 0.2
   
 
 ### Exemplo
-Aqui está um exemplo de como usar o algoritmo genético para encontrar o caminho mais curto em um grafo de exemplo.
+Aqui está um exemplo de resultado que você obterá com o algoritmo.
 
-Defina seus parâmteros e grafo:
+Grafo plotado:
+
+
+<img src="grafo.jpeg" alt="Grafo" width="600" height="400"/>
+
+Resultado:
+
+<img src="resultado.jpeg" alt="Grafo" width="350" height="50"/>
 
 ```json
 {
