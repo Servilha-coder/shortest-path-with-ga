@@ -2,7 +2,7 @@
 Uso
 O script principal para executar o algoritmo genético é `main.py`.
 
-## Configuração
+### Configuração
 - `population_size`: Número de indivíduos na população
 - `mutation_rate`: Probabilidade de mutação em um indivíduo
 - `num_generations`: Número de gerações para evoluir
@@ -10,11 +10,8 @@ O script principal para executar o algoritmo genético é `main.py`.
 - `selection_method`: Método para seleção (por exemplo, torneio, roleta)
 - `graph`: Representação do grafo como matriz de adjacência ou lista
   
-## Executando o Algoritmo
-```bash
-python main.py
-```
-## Exemplo
+
+### Exemplo
 Aqui está um exemplo de como usar o algoritmo genético para encontrar o caminho mais curto em um grafo de exemplo.
 
 Defina seus parâmteros e grafo:
