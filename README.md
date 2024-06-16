@@ -6,7 +6,7 @@ O script principal para executar o algoritmo genético é `2_TrabalhoF.ipynb` co
 ```python
 start_vertex = 'A'
 end_vertex = 'B'
-NUM_VERTICES = 10  # Número de vértices desejado
+NUM_VERTICES = 10 
 TAMANHO_DA_POPULACAO = 10 
 TAMANHO_TORNEIO = 3
 NUM_GERACOES = 10
