@@ -19,12 +19,12 @@ CHANCE_MUTACAO = 0.2
 ### Exemplo
 Aqui está um exemplo de resultado que você obterá com o algoritmo.
 
-Grafo plotado:
+**Grafo plotado:**
 
 
 <img src="grafo.jpeg" alt="Grafo" width="600" height="400"/>
 
-Resultado:
+**Resultado:**
 
 <img src="resultado.jpeg" alt="Grafo" width="350" height="50"/>
 
