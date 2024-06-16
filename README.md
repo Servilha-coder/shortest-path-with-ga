@@ -1,5 +1,6 @@
 # Algoritmo Genético para o Caminho Mais Curto
-- **Uso**
+**Uso**
+
 O script principal para executar o algoritmo genético é `2_TrabalhoF.ipynb` com o auxílio de `functions.py`. As discussões conceituais do problema e implementação dos algoritmos estão comtempladas no arquivo `Discussão.ipynb`
 
 ### Configuração
