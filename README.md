@@ -50,4 +50,8 @@ Se você tiver alguma pergunta ou sugestão, nos contate:
 - carlos23036@ilum.cnpem.br
 - sergio23040@ilum.cnpem.br
 
+## Referências
+- [1] NetworkX Developers. (2024). Documentação da Networkx. Reirado em 17 de junho de 2024 de https://networkx.github.io/
+- [2] Qiaoyan Yang. Application of Genetic Algorithms in Graph Theory and Optimization. 2016
+
 Obrigado por estudar nosso Algoritmo Genético para o Caminho Mais Curto! Happy Coding!
