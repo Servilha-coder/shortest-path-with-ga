@@ -1,6 +1,6 @@
 # Algoritmo Genético para o Caminho Mais Curto
 
-**Objetivo**
+**Objetivo;**
 O objetivo desse código é utilizar algoritmos genéticos para encontrar o caminho mais curto em grafos ponderados.
 
 
